@@ -1,0 +1,25 @@
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\bin\Debug\proyecto parte 1.exe.config
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\bin\Debug\proyecto parte 1.exe
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\bin\Debug\proyecto parte 1.pdb
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.AssemblyReference.cache
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.Form1.resources
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.Properties.Resources.resources
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.GenerateResource.cache
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.CoreCompileInputs.cache
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.exe
+C:\Users\LAB1 - UNICIT\source\repos\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.pdb
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\bin\Debug\proyecto parte 1.exe.config
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\bin\Debug\proyecto parte 1.exe
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\bin\Debug\proyecto parte 1.pdb
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.AssemblyReference.cache
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.exe.config
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.Form1.resources
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.Properties.Resources.resources
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.GenerateResource.cache
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.csproj.CoreCompileInputs.cache
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.exe
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto parte 1.pdb
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.Facturacion.resources
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.inventario.resources
+C:\Users\Octavio\Downloads\proyecto parte 1\proyecto parte 1\obj\Debug\proyecto_parte_1.Ingresodeinventario.resources
